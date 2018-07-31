@@ -38,8 +38,18 @@ ANOTHER ONE
 ANOTHER ONE
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 EMMAN EMMAN EMMAN EMMAN EMMAN EMMAN
 =======
 
 Emman EMMan Emman EMMan
 >>>>>>> 6c0669c288e9b3b232cd67805f6230f96ac56e96
+=======
+
+Emman EMMan Emman EMMan
+
+EMMMMMMAAAANNNNN~
+=======
+EMMAN EMMAN EMMAN EMMAN EMMAN EMMAN
+>>>>>>> master
+>>>>>>> emman
